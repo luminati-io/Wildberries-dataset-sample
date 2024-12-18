@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Wildberries products</h2>
 
-![Wildberries products dataset header](https://github.com/luminati-io/Webmotors-dataset-sample/blob/main/Webmotors-dataset.png)
+![Wildberries products dataset header](https://github.com/luminati-io/Wildberries-dataset-sample/blob/main/Wildberries-dataset.png)
 
 A Wildberries products dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
